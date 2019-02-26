@@ -8,8 +8,8 @@
 
 ## 此次用到的演算法：
 
-### Capsule Network:(資料來源:網路)
-- https://reurl.cc/Ov3Xv
+### Capsule Network: 
+- https://reurl.cc/Ov3Xv :(資料來源:網路)
 
 ## 個人檔案：
 ### Linkedin: 
